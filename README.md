@@ -1,4 +1,4 @@
-# Hi there, I'm @durotimmi-sk 👋
+# Hi there, I'm @durotimmi-sk 
 
 ## 👀 I’m interested in
 - Artificial Intelligence (AI)
@@ -10,7 +10,7 @@
 - Computer Vision
 - Data Visualization
 
-## 🌱 I’m currently learning
+## 🤖 I’m currently learning
 - Advanced Machine Learning algorithms
 - Deep Learning techniques
 - Reinforcement Learning
@@ -19,22 +19,22 @@
 - Python and R for Data Science
 - TensorFlow and PyTorch
 
-## 💞️ I’m looking to collaborate on
+## 🦾 I’m looking to collaborate on
 - Open-source AI/ML projects
 - Research in AI and Data Science
 - Developing innovative ML models
 - Data analysis and visualization projects
 - AI/ML competitions and hackathons
 
-## 📫 How to reach me
+## 🦿 How to reach me
 - Email: durotimmi@example.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - Twitter: [Your Twitter Handle](https://twitter.com/durotii_)
 
-## 😄 Pronouns
+## 👨🏿 Pronouns
 - He/Him
 
-## ⚡ Fun fact
+## ♟ Fun fact
 - I'm an avid chess player and often use AI to analyze my games!
 
 <!---
