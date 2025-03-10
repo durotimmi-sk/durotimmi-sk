@@ -1,4 +1,4 @@
-# Hi there, I'm @durotimmi-sk 
+# Hi there, I'm durotimi 
 
 ## 👀 I’m interested in
 - Artificial Intelligence (AI)
