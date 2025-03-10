@@ -12,8 +12,7 @@
 
 ## 🤖 I’m currently learning
 - Advanced Machine Learning algorithms
-- Deep Learning techniques
-- Reinforcement Learning
+- Computer Vision
 - Data Engineering
 - Cloud Computing for AI/ML
 - Python and R for Data Science
@@ -27,9 +26,9 @@
 - AI/ML competitions and hackathons
 
 ## 🦿 How to reach me
-- Email: durotimmi@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Handle](https://twitter.com/durotii_)
+- Email: durotimmi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/durotimmi-sk
+- Twitter: https://twitter.com/durotii_
 
 ## 👨🏿 Pronouns
 - He/Him
