@@ -1,4 +1,4 @@
-# Hi there, I’m Oluwatimilehin Sikiru (Durotimi) 👋
+# Hey!, I’m Oluwatimilehin S. "Durotimi" 👋
 
 I’m an **AI Engineering enthusiast** with a strong foundation in Artificial Intelligence (AI), Machine Learning (ML), and Data Science. I specialize in building multimodal AI systems, automation workflows, and data-driven applications. Passionate about advancing Artificial General Intelligence (AGI) in robotics and hardware to create autonomous, human-like systems, I’m eager to contribute to innovative projects and collaborate on cutting-edge AI solutions.
 
