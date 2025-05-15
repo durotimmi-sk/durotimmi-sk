@@ -50,7 +50,7 @@ Check out more projects on my [GitHub](https://github.com/durotimmi-sk?tab=repos
 ---
 
 ## 📫 How to Reach Me
-- **Email:** [durotimmi@gmail.com](mailto:durotimmi@gmail.com)  
+- **Email:** [durotimmi@gmail.com](mailto:sikiru.durotimmi@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/durotimmi-sk](https://www.linkedin.com/in/durotimmi-sk)  
 - **Twitter:** [twitter.com/durotii_](https://twitter.com/durotii_)  
 
